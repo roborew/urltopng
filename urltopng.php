@@ -49,15 +49,13 @@ class urltopng {
 	   * @function 			__Construct 
 	   * @description 		builds config string
 	   * @param string 		$url 	site address
-	   * @param interger 	$pub_key 	unique id assigned to saved image
+	   * @param interger 		$pub_key unique id assigned to saved image
 	   * @param string 		$force 	
-	   * @param boolean 	$fullpage 	
+	   * @param boolean 		$fullpage 	
 	   * @param string 		$viewport 
-	   * @param integer 	$width 	
-	   * @param integer 	$height 	
-
+	   * @param integer 		$width 	
+	   * @param integer 		$height 	
 	   * @exceptions  		$url and $pub_key required
-
 	   * @return 			returns _urltopng().
 	*/
 
