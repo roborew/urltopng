@@ -8,5 +8,5 @@ The image size switch allows you to define different folders for different size 
 example of use :
 
   		$capture_img_location = new urltopng($site_url, $unique_id, $image_size);
-      echo '<img href='.$capture_img_location.' />';
+      echo '<img href="'.$capture_img_location.'" />';
 
