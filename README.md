@@ -1,7 +1,7 @@
 urltopng
 ========
 
-Class to convert URLS to pngs using URL2PNG api
+Class to convert URLS to pngs using URL2PNG api: http://url2png.com
 
 This is a simple class created to use the url2png api.
 
