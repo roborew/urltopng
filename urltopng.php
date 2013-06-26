@@ -1,7 +1,7 @@
 <?php 
 
 /**
-   * urltopng Class -- Convert URls into pngs using the urltopng api
+   * urltopng Class -- Convert URLs into pngs using the urltopng api
    * @version 0.1.0
    * @author Robin Andrew <robin@cablestudios.co.uk>
    * @link https://github.com/Roboco/urltopng
